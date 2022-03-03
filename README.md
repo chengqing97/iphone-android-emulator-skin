@@ -2,7 +2,7 @@
 
 ### Emulator Settings
 
-Create new hardware profile with the following parameters accordingly when using the skins
+Supply hardware profile with the following parameters accordingly when using the skins
 
 iPhone X: 5.8-inch 1125x2436px
 
